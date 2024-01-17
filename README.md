@@ -27,6 +27,8 @@ Welcome to the Bomb Thrower Game! This Scratch project features a two-player gam
     Follow the on-screen instructions to control your character and throw bombs.
     Enjoy the game and have fun competing with a friend (or yourself)!
 
+# Link : https://scratch.mit.edu/projects/944484233
+
 # Demo
 
 ![demo](https://github.com/SunlightWings/Battle_on_a_Hill/blob/main/bombings.gif)
